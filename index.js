@@ -1,6 +1,7 @@
 const main = document.getElementById('main')
 main.remove();
 
+
 const body = document.body
 
 const newHeader = document.createElement ('h1')
